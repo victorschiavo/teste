@@ -1,0 +1,48 @@
+body {
+    font-family: Arial;
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: #b2b2b2;
+} 
+
+.carro {
+    background: rgba(0,0, 0, 0.9);
+    color: white;
+    border-radius: 4px;
+    padding: 20px;
+    margin:30px;
+    
+    
+   
+}
+
+.bicicleta {
+    background: rgba(0,0, 0, 0.9);
+    color: white;
+    border-radius: 4px;
+    padding: 20px;
+    margin:30px;
+    
+   
+}
+
+.amarelo {
+    color: #febe01;
+}
+
+
+.amarelo2 {
+    display: inline-block;
+    background: #febe01;
+    border-radius: 4px;
+    color: #332200;   
+    padding: 10px;
+    text-decoration: none;
+}
